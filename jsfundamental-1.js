@@ -1,3 +1,4 @@
-function(){
-    
+function name(){
+
 }
+console.log(name)
